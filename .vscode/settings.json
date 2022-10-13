@@ -1,0 +1,10 @@
+{
+  "jsonColorToken.cssLanguages": [
+    "json",
+    "jsonc",
+    "javascript",
+    "javascriptreact",
+    "css",
+    "less"
+  ]
+}
